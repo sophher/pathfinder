@@ -73,9 +73,9 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
       Owl's Wisdom 2nd lvl
       +2 enhancement to Wisdom, or +4/+6; temporary for the first 24 hours. CL 8, head slot.
 
-- [ ] [Belt of Incredible Dexterity](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-incredible-dexterity/) (4000/16000/36000g)<br>
-      Cat's Grace 2nd lvl
-      +2 enhancement to Dexterity, or +4/+6; temporary for the first 24 hours. CL 8, waist slot.
+- [ ] [Pearl of Power](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/) (500g x spell level squared)<br>
+      craftable
+      Once per day on command, a pearl of power enables the possessor to recall any one spell that she had prepared and then cast that day. The spell is then prepared again, just as if it had not been cast.
 
 ### Body
 
@@ -84,6 +84,9 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 - [ ] [Amulet of Natural Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000/8000/18000/32000/50000g)<br>
       Grants an enhancement bonus to natural armor from +1 to +5; CL 5, neck slot.
+
+- [ ] [Belt of Mighty Constitution + 2](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000g)<br>
+      +2 enhancement to constitution
 
 - [ ] [Ring of Sustenance](https://www.d20pfsrd.com/magic-items/rings/ring-of-sustenance/) (2500g)<br>
       Provides nourishment and lets the wearer sleep 2 hours for the benefit of 8 hours; requires 1 week of wear to attune, CL 5.
@@ -98,56 +101,51 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### Wondrous Items
 
-- [ ] [Pearl of Power](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/) (1000g x spell level squared)<br>
-      craftable
-      Once per day as a standard action, a prepared spellcaster recalls one expended spell of the pearl's stored level. CL 17.
-
 - [ ] [Cracked Dusty Rose Prism Ioun Stone](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone) (500g; 1000g x spell level squared)<br>
       craft lvl 12<br>
       Note: Wayfinder gives +1 insight bonus on combat maneuver checks<br>
       Once per day, recalls one expended spell of the pearl's chosen level. Prepared casters can prepare it again; spontaneous casters regain one spell slot.
 
 - [x] [Cloak of Resistance +1](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000g)<br>
-      Resistance bonus on all saving throws, +1 to +5; shoulders slot.
+      Resistance bonus on all saving throws, +1 (Fortitude, Reflex, and Will).
 
 - [ ] [Bookplate of Recall](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bookplate-of-recall/) (1000g)<br>
-      Affixed to a spellbook; once per day as an immediate action, recalls the book to the owner from up to 100 feet. CL 5.
-      Stores one weapon in the tattoo and produces or hides it as a free action; the weapon is concealed as a tattoo when not drawn.
+      This metal bookplate is inscribed with mystical words in Draconic, leaving space for a single written name. When the bookplate is glued to the inside cover of a book, the named individual may speak the title of the book to summon it as if using instant summons. This ability functions once per day.
 
 - [ ] [Pathfinder Pouch](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pathfinder-pouch/) (1000g)<br>
-      Extra-dimensional pouch linked to another pouch; items placed inside can be retrieved from the paired pouch, subject to its weight and distance limits.
+      Extra-dimensional pouch; Detect magic does not detect that it is magical as per the bag of holding; contents limit 10 pounds; volume limit 2 cubic feet.
 
-- [ ] [Amulet of Natural Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000g)<br>
+- [ ] [Amulet of Natural Armor + 1](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000g)<br>
       Barkskin 2nd lvl
-      Same amulet: +1 enhancement to natural armor; higher versions reach +5. Construction requires barkskin and CL at least three times the bonus.
+      +1 enhancement to natural armor
 
 - [x] [Ring of Protection +1](https://www.d20pfsrd.com/magic-items/rings/ring-of-protection/) (2000g)<br>
-      +1 deflection bonus to AC and saving throws.
+      +1 deflection bonus to AC
 
 - [ ] [Eyes of the Eagle](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle/) (2500g)<br>
-      +5 competence bonus on Perception checks involving sight; eyes slot, CL 3.
+      +5 competence bonus on Perception checks
 
 - [x] [Belt of Mighty Constitution +2](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000g)<br>
       Bear's Endurance 2nd lvl
-      +2 enhancement to Constitution; temporary for the first 24 hours. CL 8, waist slot.
+      +2 enhancement to Constitution
 
 - [ ] [Sandals of Quick Reaction](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sandals-of-quick-reaction/) (4000g)<br>
-      Grants Improved Initiative while worn and allows drawing a weapon as a free action when combat begins; feet slot.
+      When the wearer acts during a surprise round, he can take a standard and a move action during the surprise round. If the wearer already has the ability to take a standard and a move action during the surprise round, he instead gains a +10 circumstance bonus to speed when acting during a surprise round.
 
 - [ ] [Bag of Concealment](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-concealment/) (5000g)<br>
-      Extra-dimensional bag that obscures its contents from divination; items inside cannot be detected by scrying or similar magic.
+      The bag behaves as a bag of holding, with all the same carrying capacities according to size, except for a few key points. Each bag of concealment is keyed to a specific owner upon creation. Only the person a bag of concealment is keyed to may access its contents. Any others who look in the bag see only the inside of an empty sack. A bag of concealment registers as non-magical unless successfully identified.
 
 - [ ] [Gloves of Elvenkind](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-elvenkind/) (7500g)<br>
-      +5 competence bonus on Sleight of Hand checks and +5 on disarm attempts; hands slot, CL 5.
+      These plain gray leather gloves grant a +5 competence bonus on Spellcraft checks and concentration checks made to cast a spell defensively, CL 8.
 
 - [ ] [Boots of Escape](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-escape/) (8000g)<br>
-      Once per day, teleport up to 30 feet as an immediate action when grappled or restrained; feet slot, CL 9.
+      Once per day, when the wearer of the boots is grappled, pinned, or entangled, she may transfer herself to any spot within 30 feet as if using a dimension door spell.
 
 ### Fun Items
 
-- [ ] [Secret Pen](<https://www.d20pfsrd.com/ma(craftable)gic-items/wondrous-items/r-z/secret-pen/>) (720g)<br>
+- [ ] [Secret Pen](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/secret-pen/) (720g)<br>
       Disguise Self 1st lvl, Unseen Servant 1st lvl
-      Once per day, produces disguise self or unseen servant; useful for disguising the writer or handling objects at a distance.
+      The user or last person to touch the pen can speak a command word to cause it to begin taking dictation, recording all words audible from its square.
 
 ### Tattoos
 
