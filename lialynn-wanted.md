@@ -10,6 +10,18 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ## Feats
 
+- [x] [Spell Focus (conjuration)](https://www.d20pfsrd.com/feats/general-feats/spell-focus/)<br>
+      General feat for conjuration spells; improves DCs for spells of that school.
+
+- [x] [Versatile Summoning](https://www.d20pfsrd.com/feats/general-feats/versatile-summoning/)<br>
+      Benefit: Summoned creatures can use one additional evolution or have a flexible summon option depending on the version used in your campaign.
+
+- [x] [Extra Arcanist Exploit](https://www.d20pfsrd.com/classes/arcanist/arcanist-exploits/extra-arcanist-exploit/)<br>
+      Benefit: Gain one additional arcanist exploit.
+
+- [x] [Craft Wondrous Item](https://www.d20pfsrd.com/feats/item-creation-feats/craft-wondrous-item-item-creation/)<br>
+      Benefit: Create wondrous items at the listed caster level and cost.
+
 - [ ] [Superior Summoning](https://www.d20pfsrd.com/feats/general-feats/superior-summoning)<br>
       Note: 1d3 when more than one monster<br>
       Benefit: When a summoning spell conjures more than one creature, summon 1 additional creature. Prerequisites: Augment Summoning, CL 3.
@@ -50,7 +62,7 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### Craftable Items
 
-- [ ] [Lesser Bracers of Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-armor/) (1000g)<br>
+- [x] [Bracers of Armor +1](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-armor/) (1000g)<br>
       mage armor, craftable
       Gives an armor bonus to AC while worn, up to +8; lesser version is +1 armor, CL 1. Does not stack with armor or mage armor.
 
@@ -95,7 +107,7 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
       Note: Wayfinder gives +1 insight bonus on combat maneuver checks<br>
       Once per day, recalls one expended spell of the pearl's chosen level. Prepared casters can prepare it again; spontaneous casters regain one spell slot.
 
-- [x] [Cloak of Resistance](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000/4000/9000/16000/25000g)<br>
+- [x] [Cloak of Resistance +1](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000g)<br>
       Resistance bonus on all saving throws, +1 to +5; shoulders slot.
 
 - [ ] [Bookplate of Recall](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bookplate-of-recall/) (1000g)<br>
@@ -109,12 +121,15 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
       Barkskin 2nd lvl
       Same amulet: +1 enhancement to natural armor; higher versions reach +5. Construction requires barkskin and CL at least three times the bonus.
 
+- [x] [Ring of Protection +1](https://www.d20pfsrd.com/magic-items/rings/ring-of-protection/) (2000g)<br>
+      +1 deflection bonus to AC and saving throws.
+
 - [ ] [Eyes of the Eagle](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle/) (2500g)<br>
       +5 competence bonus on Perception checks involving sight; eyes slot, CL 3.
 
-- [ ] [Belt of Mighty Constitution](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000/16000/36000g)<br>
+- [x] [Belt of Mighty Constitution +2](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000g)<br>
       Bear's Endurance 2nd lvl
-      +2 enhancement to Constitution, or +4/+6; temporary for the first 24 hours. CL 8, waist slot.
+      +2 enhancement to Constitution; temporary for the first 24 hours. CL 8, waist slot.
 
 - [ ] [Sandals of Quick Reaction](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sandals-of-quick-reaction/) (4000g)<br>
       Grants Improved Initiative while worn and allows drawing a weapon as a free action when combat begins; feet slot.
