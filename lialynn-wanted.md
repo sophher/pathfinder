@@ -149,45 +149,42 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### Tattoos
 
-- [ ] [Runeward Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-runeward/) (500g)<br>
+- [ ] [Runeward Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-runeward/) (1000g)<br>
       detect magic, guidance<br>
       Note: Vs. Enchantment (+2 Elven immunity and +2 Tattoo)
       Provides detect magic and guidance effects, plus a +2 bonus on saving throws against enchantment effects; slotless tattoo.
 
-- [ ] [Reservoir Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-reservoir/) (5000g)<br>
+- [ ] [Reservoir Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-reservoir/) (10000g)<br>
       Note: Grease for escaping or a long cast duration spell such as Enlarge Person<br>
       Stores one spell of up to 2nd level cast into it; the wearer can release the stored spell later as a standard action. Slotless tattoo.
 
-- [ ] [Mesmerizing Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-mesmerizing/) (5400g)<br>
-      Once per day, casts suggestion on one target; Will negates, language-dependent, mind-affecting. Slotless tattoo.
+- [ ] [Mesmerizing Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-mesmerizing/) (10800g)<br>
 
-- [ ] [Lesser Caster's Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-caster-s) (3000g)<br>
-      Once per day, applies Still Spell or Silent Spell to a spell without increasing its spell level. Slotless tattoo, CL 5.
+- [ ] [Lesser Caster's Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-caster-s) (6000g)<br>
 
-- [ ] [Tattoo, Swirling Smoke](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-swirling-smoke) (6,250g)<br>
-      Once per day, casts blur on the wearer for 5 minutes, granting a 20% miss chance against attacks. Slotless tattoo, CL 3.
+- [ ] [Tattoo, Swirling Smoke](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-swirling-smoke) (12500g)<br>
 
-- [ ] [Weapon Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-weapon/) (5000g)<br>
+- [ ] [Weapon Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-weapon/) (10000g)<br>
       Stores one weapon in the tattoo and produces or hides it as a free action; the weapon appears as a tattoo while stored. Slotless tattoo.
 
 ### Expensive Items
 
-- [ ] [Blessed Book](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-blessed/) (12500g)<br>
-      Secret Page 3rd lvl
-      Durable spellbook with 1,000 pages; water- and fire-resistant, hardness 2.
-
-- [ ] [Ring of Invisibility](https://www.d20pfsrd.com/magic-items/rings/ring-of-invisibility/) (20000g)<br>
-      Wearer can become invisible at will; invisibility ends immediately after attacking. Ring slot, CL 3.
-
-- [ ] [Otherworldly Kimono](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kimono-other/) (67000g)<br>
-      Once per day, grants a powerful defensive and mobility effect keyed to one of several planes; standard-action activation, body slot.
-
-- [ ] [Tome of Clear Thought](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-tome-of-clear-thought) (27500g - 137500g)<br>
-      Reading for 48 hours over 6 days grants a permanent inherent Intelligence bonus of +1 to +5; each tome works once per creature.
-
 - [x] [Stone of Good Luck](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-of-good-luck-luckstone/) (20000g)<br>
       Luckstone
       +1 luck bonus on saving throws, ability checks, and skill checks; slotless, CL 5.
+
+- [ ] [Blessed Book](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-blessed/) (12500g)<br>
+      12 inches tall, 8 inches wide, and 1 inch thick. All such books are durable, waterproof, bound with iron overlaid with silver, and locked.
+      A wizard can fill the 1,000 pages of a blessed book with spells without paying the material cost.
+
+- [ ] [Ring of Invisibility](https://www.d20pfsrd.com/magic-items/rings/ring-of-invisibility/) (20000g)<br>
+      By activating this simple silver ring, the wearer can benefit from invisibility, as the spell.
+
+- [ ] [Otherworldly Kimono](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kimono-other/) (67000g)<br>
+      Embroidered images of cherry blossoms and cranes in flight adorn this blue silk kimono. The wearer can move and reposition these images on the kimono at will. The kimono grants its wearer a +4 resistance bonus on all saving throws and a +4 bonus on all caster level checks. Once per day, the wearer can capture a single creature within 60 feet within the kimono (no save), shunting the victim into an extradimensional space similar to that created by a maze spell. Inside this otherworldly prison, the maze appears as an endless cherry orchard filled with “walls” of windblown cherry blossoms and cranes flying overhead. Each round on its turn, the victim inside the kimono may attempt a DC 20 Intelligence check to escape the kimono as a full-round action. If the victim doesn’t escape, it is released after 10 minutes, returning to where it had been before the kimono drew it in. If this location is occupied by another creature or a solid object, the subject appears in the nearest open space. Whenever a creature is drawn inside the kimono, the victim’s image temporarily manifests as another embroidered design among the kimono’s other images. While a victim is trapped inside, the kimono’s bonuses on saving throws and caster level checks are increased by 2 (to +6). The kimono’s increased bonuses return to normal when the victim is freed or released.
+
+- [ ] [Tome of Clear Thought](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-tome-of-clear-thought) (27500g - 137500g)<br>
+      Reading for 48 hours over 6 days grants a permanent inherent Intelligence bonus of +1 to +5; each tome works once per creature.
 
 ## Spells
 
