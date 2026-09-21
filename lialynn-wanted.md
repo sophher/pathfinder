@@ -9,7 +9,7 @@
 ## Feats
 
 - [ ] [Superior Summoning](https://www.d20pfsrd.com/feats/general-feats/superior-summoning)<br>
-      Note: 1d3 wenn mehr als ein Monster
+      Note: 1d3 when more than one monster
 
 - [ ] [Evolved Summoned Monster](https://www.d20pfsrd.com/feats/general-feats/evolved-summoned-monster)<br>
       Note: 1-point evolutions [Eidolon Evolutions](https://www.d20pfsrd.com/classes/base-classes/summoner/eidolons)
@@ -33,7 +33,7 @@
       20 Roll
 
 - [ ] [Arcane Family Workbook](https://www.d20pfsrd.com/equipmenT/goods-and-services/books-paper-writing-supplies/#TOC-Book)<br>
-      +2 oder +4 Spellcraft
+      +2 or +4 Spellcraft
 
 - [ ] [Cracked Magenta Prism](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/magenta-prism/)<br>
       +2 Spellcraft
@@ -72,7 +72,7 @@
 
 - [ ] [Cracked Dusty Rose Prism Ioun Stone](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone) (500g)<br>
       craft lvl 12<br>
-      Note: Wayfinder gibt +1 insight bonus on combat maneuver checks
+      Note: Wayfinder gives +1 insight bonus on combat maneuver checks
 
 - [x] [Cloak of Resistance](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000g)<br>
       craftable
@@ -106,10 +106,10 @@
 
 - [ ] [Runeward Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-runeward/) (500g)<br>
       detect magic, guidance<br>
-      Note: Vs. Enchantment (+2 Elven immunity und +2 Tattoo)
+      Note: Vs. Enchantment (+2 Elven immunity and +2 Tattoo)
 
 - [ ] [Reservoir Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-reservoir/) (5000g)<br>
-      Note: Grease zum Escapen oder einen langen cast duration Zauber wie Enlarge Person
+      Note: Grease for escaping or a long cast duration spell such as Enlarge Person
 
 - [ ] [Mesmerizing Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-mesmerizing/) (5400g)<br>
       suggestion
