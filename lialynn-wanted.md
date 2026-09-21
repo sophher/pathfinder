@@ -195,6 +195,27 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### 1st lvl
 
+- [x] [Charm Person](https://www.d20pfsrd.com/magic/all-spells/c/charm-person/)<br>
+      enchantment; 1 standard action; close; one humanoid creature; 1 hour/level; Will negates; creature regards you as friendly.
+
+- [x] [Color Spray](https://www.d20pfsrd.com/magic/all-spells/c/color-spray/)<br>
+      illusion; standard action; 15-ft cone; 1 round/level; Will partial; creatures in the cone may be blinded, stunned, or unconscious depending on HD.
+
+- [x] [Feather Fall](https://www.d20pfsrd.com/magic/all-spells/f/feather-fall/)<br>
+      transmutation; immediate action; close; one creature/level; 1 round/level; no save; targets fall slowly and take no falling damage.
+
+- [x] [Grease](https://www.d20pfsrd.com/magic/all-spells/g/grease/)<br>
+      conjuration; standard action; close; 10-ft square or one object; 1 min/level; Ref negates; creates slick, difficult terrain and can cause falls.
+
+- [x] [Mage Armor](https://www.d20pfsrd.com/magic/all-spells/m/mage-armor/)<br>
+      conjuration; standard action; touch; 1 hour/level; no save; grants +4 armor bonus to AC.
+
+- [x] [Sleep](https://www.d20pfsrd.com/magic/all-spells/s/sleep/)<br>
+      enchantment; standard action; 30-ft cone; 1 min/level; Will negates; creatures with 4 or fewer HD fall asleep.
+
+- [x] [Summon Monster I](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/)<br>
+      conjuration; standard action; close; one creature from the SM I list; 1 round/level; summoned creature follows your commands.
+
 - [ ] [Liberating Command](https://www.d20pfsrd.com/magic/all-spells/l/liberating-command/)<br>
       immediate action; close range; one grappled ally; target attempts Escape Artist or combat maneuver check to escape with +2 competence, plus +1 per caster level (max +15).
 
@@ -209,6 +230,21 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### 2nd lvl
 
+- [x] [Glitterdust](https://www.d20pfsrd.com/magic/all-spells/g/glitterdust/)<br>
+      conjuration; standard action; medium; 10-ft spread; 1 round/level; Reflex negates; reveals invisible creatures and causes them to sparkle.
+
+- [x] [Invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility/)<br>
+      illusion; standard action; touch; 1 min/level; Will negates; target becomes invisible and remains so unless attacking or casting a spell.
+
+- [x] [Mirror Image](https://www.d20pfsrd.com/magic/all-spells/m/mirror-image/)<br>
+      illusion; standard action; personal; 1 min/level; no save; creates duplicate images to confuse attackers.
+
+- [x] [Resist Energy](https://www.d20pfsrd.com/magic/all-spells/r/resist-energy/)<br>
+      abjuration; standard action; touch; 10 min/level; no save; grants resistance to acid, cold, electricity, fire, or sonic.
+
+- [x] [Summon Monster II](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/)<br>
+      conjuration; standard action; close; one creature from the SM II list; 1 round/level; summoned creature acts on your turn.
+
 - [ ] [Levitate](https://www.d20pfsrd.com/magic/all-spells/l/levitate/)<br>
       transmutation; standard action; close; one creature or object up to 100 lb/level; 1 min/level; Will negates; vertical movement up or down 20 ft/round, no horizontal movement.
 
@@ -220,8 +256,17 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 ### 3rd lvl
 
-- [ ] [Slow](https://www.d20pfsrd.com/magic/all-spells/s/slow/)<br>
+- [x] [Fly](https://www.d20pfsrd.com/magic/all-spells/f/fly/)<br>
+      transmutation; standard action; touch; one creature/level; 1 min/level; Will negates; target gains a fly speed of 60 ft with average maneuverability.
+
+- [x] [Haste](https://www.d20pfsrd.com/magic/all-spells/h/haste/)<br>
+      transmutation; standard action; close; one creature/level; 1 round/level; Will negates; target gains extra move action and +1 on attack rolls, AC, and Reflex saves.
+
+- [x] [Slow](https://www.d20pfsrd.com/magic/all-spells/s/slow/)<br>
       transmutation; standard action; close; one creature/level within 30-ft burst; 1 round/level; Will negates; one move or standard action each round, -1 attack/AC/reflex.
+
+- [x] [Summon Monster III](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/)<br>
+      conjuration; standard action; close; one creature from the SM III list; 1 round/level; summoned creature acts on your turn.
 
 - [ ] [Water Breathing](https://www.d20pfsrd.com/magic/all-spells/w/water-breathing/)<br>
       transmutation; standard action; touch; one creature/level; 2 hours/level; harmless; creatures can breathe underwater and still breathe air.
