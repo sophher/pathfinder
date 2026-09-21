@@ -181,46 +181,46 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 ### 1st lvl
 
 - [ ] [Liberating Command](https://www.d20pfsrd.com/magic/all-spells/l/liberating-command/)<br>
-      Level 1; immediate action; close range; one grappled ally; target attempts Escape Artist or combat maneuver check to escape with +2 competence, plus +1 per caster level (max +15).
+      immediate action; close range; one grappled ally; target attempts Escape Artist or combat maneuver check to escape with +2 competence, plus +1 per caster level (max +15).
 
 - [ ] [Enlarge Person](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/)<br>
-      Level 1 transmutation; standard action; close; one humanoid; 1 min/level; Will negates, harmless; one size larger, +2 Strength, -2 Dexterity, -1 attack/AC, increased reach.
+      transmutation; standard action; close; one humanoid; 1 min/level; Will negates, harmless; one size larger, +2 Strength, -2 Dexterity, -1 attack/AC, increased reach.
 
 - [ ] [Silent Image](https://www.d20pfsrd.com/magic/all-spells/s/silent-image/)<br>
-      Level 1 illusion; standard action; long range; 20-ft-radius spread; concentration; Will disbelief; visual image with no sound, smell, or tactile component.
+      illusion; standard action; long range; 20-ft-radius spread; concentration; Will disbelief; visual image with no sound, smell, or tactile component.
 
 - [ ] [Crafter's Fortune](https://www.d20pfsrd.com/magic/all-spells/c/crafter-s-fortune/)<br>
-      Level 1 transmutation; standard action; touch; 1 min/level; one creature; +5 competence on its next Craft check.
+      transmutation; standard action; touch; 1 min/level; one creature; +5 competence on its next Craft check.
 
 ### 2nd lvl
 
 - [ ] [Levitate](https://www.d20pfsrd.com/magic/all-spells/l/levitate/)<br>
-      Level 2 transmutation; standard action; close; one creature or object up to 100 lb/level; 1 min/level; Will negates; vertical movement up or down 20 ft/round, no horizontal movement.
+      transmutation; standard action; close; one creature or object up to 100 lb/level; 1 min/level; Will negates; vertical movement up or down 20 ft/round, no horizontal movement.
 
 - [ ] [Web](https://www.d20pfsrd.com/magic/all-spells/w/web/)<br>
-      Level 2 conjuration; standard action; medium; 20-ft-radius spread; 10 min/level; Reflex partial; sticky webs create difficult terrain and entangle creatures.
+      conjuration; standard action; medium; 20-ft-radius spread; 10 min/level; Reflex partial; sticky webs create difficult terrain and entangle creatures.
 
 - [ ] [Create Pit](https://www.d20pfsrd.com/magic/all-spells/c/create-pit/)<br>
-      Level 2 conjuration; standard action; medium; 10-ft square, 10 ft deep; 1 round/level; Reflex negates; opens beneath targets, causing 1d6 falling damage and prone condition.
+      conjuration; standard action; medium; 10-ft square, 10 ft deep; 1 round/level; Reflex negates; opens beneath targets, causing 1d6 falling damage and prone condition.
 
 ### 3rd lvl
 
 - [ ] [Slow](https://www.d20pfsrd.com/magic/all-spells/s/slow/)<br>
-      Level 3 transmutation; standard action; close; one creature/level within 30-ft burst; 1 round/level; Will negates; one move or standard action each round, -1 attack/AC/reflex.
+      transmutation; standard action; close; one creature/level within 30-ft burst; 1 round/level; Will negates; one move or standard action each round, -1 attack/AC/reflex.
 
 - [ ] [Water Breathing](https://www.d20pfsrd.com/magic/all-spells/w/water-breathing/)<br>
-      Level 3 transmutation; standard action; touch; one creature/level; 2 hours/level; harmless; creatures can breathe underwater and still breathe air.
+      transmutation; standard action; touch; one creature/level; 2 hours/level; harmless; creatures can breathe underwater and still breathe air.
 
 - [ ] [Dispel Magic](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic)<br>
-      Level 3 abjuration; standard action; medium; targeted dispel, 20-ft burst, or counterspell; check 1d20 + caster level (max +10) against DC 11 + effect CL.
+      abjuration; standard action; medium; targeted dispel, 20-ft burst, or counterspell; check 1d20 + caster level (max +10) against DC 11 + effect CL.
 
 ### 4th lvl
 
 - [x] [Black Tentacles](https://www.d20pfsrd.com/magic/all-spells/b/black-tentacles/)<br>
-      Level 4 conjuration; standard action; medium; 20-ft-radius spread; 1 round/level; grapple check + caster level; tentacles deal 1d6+4 bludgeoning each round and grapple creatures.
+      conjuration; standard action; medium; 20-ft-radius spread; 1 round/level; grapple check + caster level; tentacles deal 1d6+4 bludgeoning each round and grapple creatures.
 
 - [x] [Summon Monster IV](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/)<br>
-      Level 4 conjuration; standard action; close; one creature from the SM IV list; 1 round/level; summoned creature acts on your turn and attacks your enemies.
+      conjuration; standard action; close; one creature from the SM IV list; 1 round/level; summoned creature acts on your turn and attacks your enemies.
 
 - [ ] [Confusion](https://www.d20pfsrd.com/magic/all-spells/c/confusion/)<br>
-      Level 4 enchantment; standard action; medium; 15-ft-radius burst; 1 round/level; Will negates; affected creatures randomly babble, flee, attack nearest, or act normally.
+      enchantment; standard action; medium; 15-ft-radius burst; 1 round/level; Will negates; affected creatures randomly babble, flee, attack nearest, or act normally.
