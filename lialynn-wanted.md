@@ -34,47 +34,47 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
 
 - [ ] [Amulet, Armillary](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-armillary) (2500g)<br>
       +5 Spellcraft
-      Neck item granting +5 competence to Spellcraft checks involving spells and magic items; CL 5, price 2,500 gp.
+      Neck item granting +5 competence to Spellcraft checks involving spells and magic items; CL 5.
 
 - [ ] [Cyclops Helm](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm) (5600g)<br>
       20 Roll
-      Once per day, after rolling a d20, treat the result as a natural 20; immediate action, CL 6, price 5,600 gp.
+      Once per day, after rolling a d20, treat the result as a natural 20; immediate action, CL 6.
 
-- [ ] [Arcane Family Workbook](https://www.d20pfsrd.com/equipmenT/goods-and-services/books-paper-writing-supplies/#TOC-Book)<br>
+- [ ] [Arcane Family Workbook](https://www.d20pfsrd.com/equipmenT/goods-and-services/books-paper-writing-supplies/#TOC-Book) (300g)<br>
       +2 or +4 Spellcraft
-      Referenced for 1d4 rounds: +2 circumstance to Spellcraft; referenced for 1d4 hours: +4. Price 300 gp, weight 3 lb.
+      Referenced for 1d4 rounds: +2 circumstance to Spellcraft; referenced for 1d4 hours: +4. Weight 3 lb.
 
-- [ ] [Cracked Magenta Prism](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/magenta-prism/)<br>
+- [ ] [Cracked Magenta Prism](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/magenta-prism/) (400g)<br>
       +2 Spellcraft
-      Cracked ioun stone: +2 competence to Spellcraft checks; slotless, price 400 gp.
+      Cracked ioun stone: +2 competence to Spellcraft checks; slotless.
 
 ### Craftable Items
 
 - [ ] [Lesser Bracers of Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-armor/) (1000g)<br>
       mage armor, craftable
-      Gives an armor bonus to AC while worn, up to +8; lesser version is +1 armor, CL 1, price 1,000 gp. Does not stack with armor or mage armor.
+      Gives an armor bonus to AC while worn, up to +8; lesser version is +1 armor, CL 1. Does not stack with armor or mage armor.
 
 - [x] [Headband of Vast Intelligence](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-vast-intelligence/) (4000g)<br>
-      +2 enhancement to Intelligence; after 24 hours, grants ranks equal to total HD in one associated skill. CL 8, head slot, price 4,000 gp.
+      +2 enhancement to Intelligence; after 24 hours, grants ranks equal to total HD in one associated skill. CL 8, head slot.
 
-- [ ] [Headband of Inspired Wisdom](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-inspired-wisdom/)<br>
+- [ ] [Headband of Inspired Wisdom](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-inspired-wisdom/) (4000/16000/36000g)<br>
       Owl's Wisdom 2nd lvl
-      +2 enhancement to Wisdom, or +4/+6; temporary for the first 24 hours. CL 8, head slot, price 4,000/16,000/36,000 gp.
+      +2 enhancement to Wisdom, or +4/+6; temporary for the first 24 hours. CL 8, head slot.
 
-- [ ] [Belt of Incredible Dexterity](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-incredible-dexterity/)<br>
+- [ ] [Belt of Incredible Dexterity](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-incredible-dexterity/) (4000/16000/36000g)<br>
       Cat's Grace 2nd lvl
-      +2 enhancement to Dexterity, or +4/+6; temporary for the first 24 hours. CL 8, waist slot, price 4,000/16,000/36,000 gp.
+      +2 enhancement to Dexterity, or +4/+6; temporary for the first 24 hours. CL 8, waist slot.
 
 ### Body
 
-- [ ] [Mnemonic Vestment](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vestment-mnemonic/) (5000p)<br>
-      Once per day, a spontaneous caster can spend a spell slot to cast a same-type spell from a written source on their spell list, of equal or lower level. Must be worn for 24 hours; CL 17, body slot, price 5,000 gp.
+- [ ] [Mnemonic Vestment](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vestment-mnemonic/) (5000g)<br>
+      Once per day, a spontaneous caster can spend a spell slot to cast a same-type spell from a written source on their spell list, of equal or lower level. Must be worn for 24 hours; CL 17, body slot.
 
-- [ ] [Amulet of Natural Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000g)<br>
-      Grants an enhancement bonus to natural armor from +1 to +5; CL 5, neck slot, price 2,000/8,000/18,000/32,000/50,000 gp.
+- [ ] [Amulet of Natural Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000/8000/18000/32000/50000g)<br>
+      Grants an enhancement bonus to natural armor from +1 to +5; CL 5, neck slot.
 
 - [ ] [Ring of Sustenance](https://www.d20pfsrd.com/magic-items/rings/ring-of-sustenance/) (2500g)<br>
-      Provides nourishment and lets the wearer sleep 2 hours for the benefit of 8 hours; requires 1 week of wear to attune, CL 5, price 2,500 gp.
+      Provides nourishment and lets the wearer sleep 2 hours for the benefit of 8 hours; requires 1 week of wear to attune, CL 5.
 
 ### Weapns
 
@@ -82,99 +82,99 @@ Wizard optimization guide covering spell selection, action economy, defenses, an
       Quarterstaff damage is 1d6/1d6 (Medium); wyroot can store spell energy when the wielder confirms a critical hit, for later use under the material's rules.
 
 - [ ] [Lesser Rod of Giant Summoning](https://www.d20pfsrd.com/magic-items/rods/rod-of-giant-summoning) (3000g)<br>
-      Enhances summon monster spells that summon giants: summoned giants gain +2 Strength, +2 Constitution, and +2 natural armor. Lesser rod affects summon monster I-III; CL 9, price 3,000 gp.
+      Enhances summon monster spells that summon giants: summoned giants gain +2 Strength, +2 Constitution, and +2 natural armor. Lesser rod affects summon monster I-III; CL 9.
 
 ### Wondrous Items
 
-- [ ] [Pearl of Power](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/)<br>
+- [ ] [Pearl of Power](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/) (1000g x spell level squared)<br>
       craftable
-      Once per day as a standard action, a prepared spellcaster recalls one expended spell of the pearl's stored level. Price: 1,000 gp x spell level squared; CL 17.
+      Once per day as a standard action, a prepared spellcaster recalls one expended spell of the pearl's stored level. CL 17.
 
-- [ ] [Cracked Dusty Rose Prism Ioun Stone](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone) (500g)<br>
+- [ ] [Cracked Dusty Rose Prism Ioun Stone](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone) (500g; 1000g x spell level squared)<br>
       craft lvl 12<br>
       Note: Wayfinder gives +1 insight bonus on combat maneuver checks<br>
-      Once per day, recalls one expended spell of the pearl's chosen level. Prepared casters can prepare it again; spontaneous casters regain one spell slot. Price: 1,000 gp x spell level squared.
+      Once per day, recalls one expended spell of the pearl's chosen level. Prepared casters can prepare it again; spontaneous casters regain one spell slot.
 
-- [x] [Cloak of Resistance](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000g)<br>
-      Resistance bonus on all saving throws, +1 to +5; shoulders slot, price 1,000/4,000/9,000/16,000/25,000 gp.
+- [x] [Cloak of Resistance](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance/) (1000/4000/9000/16000/25000g)<br>
+      Resistance bonus on all saving throws, +1 to +5; shoulders slot.
 
 - [ ] [Bookplate of Recall](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bookplate-of-recall/) (1000g)<br>
-      Affixed to a spellbook; once per day as an immediate action, recalls the book to the owner from up to 100 feet. CL 5, price 1,000 gp.
-      Stores one weapon in the tattoo and produces or hides it as a free action; the weapon is concealed as a tattoo when not drawn. Price 5,000 gp.
+      Affixed to a spellbook; once per day as an immediate action, recalls the book to the owner from up to 100 feet. CL 5.
+      Stores one weapon in the tattoo and produces or hides it as a free action; the weapon is concealed as a tattoo when not drawn.
 
 - [ ] [Pathfinder Pouch](https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pathfinder-pouch/) (1000g)<br>
-      Extra-dimensional pouch linked to another pouch; items placed inside can be retrieved from the paired pouch, subject to its weight and distance limits. Price 1,000 gp.
+      Extra-dimensional pouch linked to another pouch; items placed inside can be retrieved from the paired pouch, subject to its weight and distance limits.
 
 - [ ] [Amulet of Natural Armor](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor/) (2000g)<br>
       Barkskin 2nd lvl
-      Same amulet: +1 enhancement to natural armor at 2,000 gp; higher versions reach +5. Construction requires barkskin and CL at least three times the bonus.
+      Same amulet: +1 enhancement to natural armor; higher versions reach +5. Construction requires barkskin and CL at least three times the bonus.
 
 - [ ] [Eyes of the Eagle](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle/) (2500g)<br>
-      +5 competence bonus on Perception checks involving sight; eyes slot, CL 3, price 2,500 gp.
+      +5 competence bonus on Perception checks involving sight; eyes slot, CL 3.
 
-- [ ] [Belt of Mighty Constitution](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000g)<br>
+- [ ] [Belt of Mighty Constitution](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution/) (4000/16000/36000g)<br>
       Bear's Endurance 2nd lvl
-      +2 enhancement to Constitution, or +4/+6; temporary for the first 24 hours. CL 8, waist slot, price 4,000/16,000/36,000 gp.
+      +2 enhancement to Constitution, or +4/+6; temporary for the first 24 hours. CL 8, waist slot.
 
 - [ ] [Sandals of Quick Reaction](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sandals-of-quick-reaction/) (4000g)<br>
-      Grants Improved Initiative while worn and allows drawing a weapon as a free action when combat begins; feet slot, price 4,000 gp.
+      Grants Improved Initiative while worn and allows drawing a weapon as a free action when combat begins; feet slot.
 
 - [ ] [Bag of Concealment](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-concealment/) (5000g)<br>
-      Extra-dimensional bag that obscures its contents from divination; items inside cannot be detected by scrying or similar magic. Price 5,000 gp.
+      Extra-dimensional bag that obscures its contents from divination; items inside cannot be detected by scrying or similar magic.
 
 - [ ] [Gloves of Elvenkind](https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-elvenkind/) (7500g)<br>
-      +5 competence bonus on Sleight of Hand checks and +5 on disarm attempts; hands slot, CL 5, price 7,500 gp.
+      +5 competence bonus on Sleight of Hand checks and +5 on disarm attempts; hands slot, CL 5.
 
 - [ ] [Boots of Escape](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-escape/) (8000g)<br>
-      Once per day, teleport up to 30 feet as an immediate action when grappled or restrained; feet slot, CL 9, price 8,000 gp.
+      Once per day, teleport up to 30 feet as an immediate action when grappled or restrained; feet slot, CL 9.
 
 ### Fun Items
 
 - [ ] [Secret Pen](<https://www.d20pfsrd.com/ma(craftable)gic-items/wondrous-items/r-z/secret-pen/>) (720g)<br>
       Disguise Self 1st lvl, Unseen Servant 1st lvl
-      Once per day, produces disguise self or unseen servant; useful for disguising the writer or handling objects at a distance. Price 720 gp.
+      Once per day, produces disguise self or unseen servant; useful for disguising the writer or handling objects at a distance.
 
 ### Tattoos
 
 - [ ] [Runeward Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-runeward/) (500g)<br>
       detect magic, guidance<br>
       Note: Vs. Enchantment (+2 Elven immunity and +2 Tattoo)
-      Provides detect magic and guidance effects, plus a +2 bonus on saving throws against enchantment effects; slotless tattoo, price 500 gp.
+      Provides detect magic and guidance effects, plus a +2 bonus on saving throws against enchantment effects; slotless tattoo.
 
 - [ ] [Reservoir Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-reservoir/) (5000g)<br>
       Note: Grease for escaping or a long cast duration spell such as Enlarge Person<br>
-      Stores one spell of up to 2nd level cast into it; the wearer can release the stored spell later as a standard action. Slotless tattoo, price 5,000 gp.
+      Stores one spell of up to 2nd level cast into it; the wearer can release the stored spell later as a standard action. Slotless tattoo.
 
 - [ ] [Mesmerizing Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-mesmerizing/) (5400g)<br>
-      Once per day, casts suggestion on one target; Will negates, language-dependent, mind-affecting. Slotless tattoo, price 5,400 gp.
+      Once per day, casts suggestion on one target; Will negates, language-dependent, mind-affecting. Slotless tattoo.
 
 - [ ] [Lesser Caster's Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-caster-s) (3000g)<br>
-      Once per day, applies Still Spell or Silent Spell to a spell without increasing its spell level. Slotless tattoo, CL 5, price 3,000 gp.
+      Once per day, applies Still Spell or Silent Spell to a spell without increasing its spell level. Slotless tattoo, CL 5.
 
 - [ ] [Tattoo, Swirling Smoke](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-swirling-smoke) (6,250g)<br>
-      Once per day, casts blur on the wearer for 5 minutes, granting a 20% miss chance against attacks. Slotless tattoo, CL 3, price 6,250 gp.
+      Once per day, casts blur on the wearer for 5 minutes, granting a 20% miss chance against attacks. Slotless tattoo, CL 3.
 
 - [ ] [Weapon Tattoo](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-weapon/) (5000g)<br>
-      Stores one weapon in the tattoo and produces or hides it as a free action; the weapon appears as a tattoo while stored. Slotless tattoo, price 5,000 gp.
+      Stores one weapon in the tattoo and produces or hides it as a free action; the weapon appears as a tattoo while stored. Slotless tattoo.
 
 ### Expensive Items
 
 - [ ] [Blessed Book](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-blessed/) (12500g)<br>
       Secret Page 3rd lvl
-      Durable spellbook with 1,000 pages; water- and fire-resistant, hardness 2. Price 12,500 gp.
+      Durable spellbook with 1,000 pages; water- and fire-resistant, hardness 2.
 
 - [ ] [Ring of Invisibility](https://www.d20pfsrd.com/magic-items/rings/ring-of-invisibility/) (20000g)<br>
-      Wearer can become invisible at will; invisibility ends immediately after attacking. Ring slot, CL 3, price 20,000 gp.
+      Wearer can become invisible at will; invisibility ends immediately after attacking. Ring slot, CL 3.
 
 - [ ] [Otherworldly Kimono](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kimono-other/) (67000g)<br>
-      Once per day, grants a powerful defensive and mobility effect keyed to one of several planes; standard-action activation, body slot, price 67,000 gp.
+      Once per day, grants a powerful defensive and mobility effect keyed to one of several planes; standard-action activation, body slot.
 
 - [ ] [Tome of Clear Thought](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-tome-of-clear-thought) (27500g - 137500g)<br>
-      Reading for 48 hours over 6 days grants a permanent inherent Intelligence bonus of +1 to +5; each tome works once per creature, price 27,500/55,000/82,500/110,000/137,500 gp.
+      Reading for 48 hours over 6 days grants a permanent inherent Intelligence bonus of +1 to +5; each tome works once per creature.
 
-- [x] [Stone of Good Luck](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-of-good-luck-luckstone/) (20,000 gp)<br>
+- [x] [Stone of Good Luck](https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-of-good-luck-luckstone/) (20000g)<br>
       Luckstone
-      +1 luck bonus on saving throws, ability checks, and skill checks; slotless, CL 5, price 20,000 gp.
+      +1 luck bonus on saving throws, ability checks, and skill checks; slotless, CL 5.
 
 ## Spells
 
